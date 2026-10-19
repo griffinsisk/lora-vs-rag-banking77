@@ -1,0 +1,8 @@
+.env
+keys.txt
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.rag_cache_*
+runs/
